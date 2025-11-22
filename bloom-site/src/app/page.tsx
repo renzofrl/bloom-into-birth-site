@@ -88,7 +88,7 @@ export default function Home() {
             className="space-y-6"
           >
             <p className="text-[0.78rem] tracking-[0.24em] uppercase text-stone-500">
-              Gentle doula support • [Your City]
+              Gentle doula support • Broward and Miami
             </p>
 
             <h1 className="text-3xl md:text-4xl lg:text-[2.7rem] font-semibold tracking-tight leading-tight text-stone-900">
